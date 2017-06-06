@@ -1,2 +1,3 @@
 # hello-world
-exercise
+
+Just a little check it out exercise.
